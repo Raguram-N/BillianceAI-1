@@ -1,4 +1,5 @@
-# 🎥 BillianceAI — Felina: An Interactive AI Admission Assistant
+# 🎥 BillianceAI — Felina
+## An Interactive AI Assistant - Just feel what you hear
 
 Transforming college enquiry calls into immersive visual experiences.
 
@@ -91,7 +92,7 @@ Tailored visuals based on student's interest:
 - Engineering → Labs, workshops  
 - Management → Placement stats  
 - Arts → Clubs, culture 
-- Sports
+- Sports → Cricket, Volleyball
 
 ### 🤖 Smart Conversational Flow
 Felina detects confusion, interest level, and objection patterns.
@@ -106,8 +107,7 @@ Student Call
 → Visual Walkthrough
 → Personalized Pitch
 → Final Counselling Code
-→ Lead Nurturing Follow-up
-
+→ Lead Follow-up
 
 ---
 
@@ -150,8 +150,7 @@ Student Call
 
 ## 🚀 Future Scope
 
-- 🖼️ Auto-generated video explainers  
-- 📽️ VR Explanation
+- 📽️ VR Explanation - Demo classroom experience, demo lab experience etc
 
 ---
 
@@ -172,7 +171,7 @@ Felina delivers exactly that.
 **BillianceAI transforms admission calls into visual storytelling moments.**  
 By combining voice intelligence with visual engagement, Felina becomes a powerful admission partner — not just an answering bot.
 
-> _“Admissions are won through experiences — we just made those experiences smarter.”_
+> _“Admissions are won through experiences — we made those experiences smarter.”_
 
 ---
 

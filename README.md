@@ -138,7 +138,7 @@ Student Call
 ## 📊 Market Opportunity
 
 - 70% of people enquiries in India happen via **phone + WhatsApp**  
-- Visual content increases decision impact by **4×**  
+- Visual content influence decison  
 - No major competitor offers **visual walkthrough calling**  
 - Strong shift toward AI-powered admission workflows  
 

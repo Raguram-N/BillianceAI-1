@@ -132,20 +132,19 @@ Student Call
 
 ## 📊 Market Opportunity
 
-- 70% of student enquiries in India happen via **phone + WhatsApp**  
+- 70% of people enquiries in India happen via **phone + WhatsApp**  
 - Visual content increases decision impact by **4×**  
 - No major competitor offers **visual walkthrough calling**  
 - Strong shift toward AI-powered admission workflows  
 
 ---
 
-## 💰 Business Diversion
+## 💰 Concept Diversion
 
-### 1️⃣ College Subscription
-### 2️⃣ Building Property
-### 3️⃣ Electronics
-### 4️⃣ Bikes 
-### so on....
+- College 
+- Building Property
+- Electronics
+- Bikes so on....
 
 ---
 
@@ -160,9 +159,7 @@ Student Call
 
 BillianceAI shifts admission experience from:
 
-❌ Boring voice conversations  
-to  
-✅ Rich, interactive, visual guidance  
+> Boring voice conversations **INTO** Rich, interactive, visual guidance  
 
 Students make decisions through **experience, clarity, and emotional connection** — not just words.
 

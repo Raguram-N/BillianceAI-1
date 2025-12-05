@@ -19,7 +19,16 @@ Felina sends a beautifully designed *visual admission deck* to the student's Wha
 
 ---
 
-## 💭 The How the Idea Started
+## 💭 How the Idea Started
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 A normal call goes like this:
 
@@ -48,9 +57,22 @@ That sparked the idea:
 > ❓ Why should our AI hide behind voice?  
 > 💡 Why not make it **visually interactive**?
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 💡 The Spark — The Innovation: Visual-Interactive AI Calling
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="3.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 After endlessly replying, Felina - its time to influence:
 
@@ -72,9 +94,22 @@ Each page now becomes a talking point:
 
 This creates an **engaging, memorable, premium experience**.
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## ✨ Key Features
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="5.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ### 🎙️ Voice + Visual Hybrid Communication
 Felina uses both voice explanation and real-time visual support.
@@ -102,6 +137,11 @@ Tailored visuals based on student's interest:
 ### 🤖 Smart Conversational Flow
 Felina detects confusion, interest level, and objection patterns.
 
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎬 Experience Flow
@@ -126,6 +166,15 @@ Student Call
 
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="6.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ## 👥 Target Audience
 
 - Colleges & Universities  
@@ -142,21 +191,43 @@ Student Call
 - No major competitor offers **visual walkthrough calling**  
 - Strong shift toward AI-powered admission workflows  
 
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="Future scope.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
+
+## 🚀 Future Scope
+
+### 📽️ VR Explanation 
+- Demo classroom experience
+- Demo lab experience etc
+
 ---
 
 ## 💰 Concept Diversion
 
 - College 
-- Building 
 - Property
 - Electronics
-- Bikes so on....
+- Bikes 
+- Voice demo on products like gadgets 
+- Personal doubt clarrification Teacher 
+- so on....
 
----
-
-## 🚀 Future Scope
-
-- 📽️ VR Explanation - Demo classroom experience, demo lab experience etc
+</td>
+</tr>
+</table>
 
 ---
 
@@ -185,6 +256,5 @@ By combining voice intelligence with visual engagement, Felina becomes a powerfu
 
 > _“Admissions are won through experiences — we made those experiences smarter.”_
 
----
 
 

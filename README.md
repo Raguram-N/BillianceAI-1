@@ -172,6 +172,12 @@ Felina delivers exactly that.
 
 ---
 
+## 👁️ Research proof
+
+[Link](https://github.com/Raguram-N/BillianceAI-1-proof/blob/main/README.md)
+
+---
+
 ## 🏁 Conclusion
 
 **BillianceAI transforms admission calls into visual storytelling moments.**  

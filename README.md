@@ -1,4 +1,4 @@
-# 🎥 BillianceAI — Felina
+# 🤖 BillianceAI — Felina
 ## An Interactive AI Assistant - Just feel what you hear
 
 Transforming college enquiry calls into immersive visual experiences.

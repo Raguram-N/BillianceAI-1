@@ -63,7 +63,7 @@ That sparked the idea:
 
 ---
 
-## 💡 The Spark — The Innovation: Visual-Interactive AI Calling
+## 💡 The Spark — The Innovation
 
 <table>
 <tr>
@@ -74,8 +74,11 @@ That sparked the idea:
 </td>
 <td width="60%" valign="top">
 
-After endlessly replying, Felina - its time to influence:
+## Visual-Interactive AI Calling
 
+**📽️ Felina - its time to influence**
+
+- After endlessly replying
 > **Felina:**  
 > “Sir, I would like to walk you through the college visually. It takes just a few minutes sir!
 > I’ve sent you a short brochure. Kindly open it, sir.” (Use earphones or phone speaker for better experince)

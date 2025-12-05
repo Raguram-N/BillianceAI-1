@@ -23,14 +23,19 @@ Felina sends a beautifully designed *visual admission deck* to the student's Wha
 
 A normal call goes like this:
 
-Student: “What’s the fee?”
-Felina: “This sir, that sir…”
 
-Student: “What about placements?”
-Felina: “This sir, that sir…”
+1. Student: “What’s the fee?”
+Felina: “Bla bla bla…”
 
-Student: “How is the campus?”
-Felina: “This sir, that sir…”
+
+
+2. Student: “What about placements?”
+Felina: “Bla bla bla…”
+
+
+
+3. Student: “How is the campus?”
+Felina: “Bla bla bla…”
 
 
 After a few questions, the call becomes monotonous.  
@@ -50,7 +55,7 @@ That sparked the idea:
 After endlessly replying, Felina - its time to influence:
 
 > **Felina:**  
-> “Sir, I would like to walk you through the college visually. it takes just a few minutes sir!
+> “Sir, I would like to walk you through the college visually. It takes just a few minutes sir!
 > I’ve sent you a short brochure. Kindly open it, sir.” (Use earphones or phone speaker for better experince)
 
 Student opens the PDF on WhatsApp.  
@@ -142,7 +147,8 @@ Student Call
 ## 💰 Concept Diversion
 
 - College 
-- Building Property
+- Building 
+- Property
 - Electronics
 - Bikes so on....
 

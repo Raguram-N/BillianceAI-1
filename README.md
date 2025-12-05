@@ -11,7 +11,7 @@ Most AI calling agents today sound the same — voice-only, repetitive, and robo
 But students making admission enquiries don’t just want information — they want **clarity, trust, and visual understanding**.
 
 **BillianceAI introduces a breakthrough:**  
-An AI admission agent (**Felina**) that doesn’t just talk — **it also make you to feel the conversation.**
+An AI admission agent (**Felina**) that doesn’t just talk — it also make you to **feel the conversation.**
 
 Felina sends a beautifully designed *visual admission deck* to the student's WhatsApp and walks them through it slide-by-slide during the call.
 

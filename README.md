@@ -1,4 +1,4 @@
-# 🎥 BillianceAI — Interactive AI Admission Assistant
+# 🎥 BillianceAI — Felina: An Interactive AI Admission Assistant
 
 Transforming college enquiry calls into immersive visual experiences.
 

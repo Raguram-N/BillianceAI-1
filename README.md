@@ -164,7 +164,7 @@ Student Call
 
 BillianceAI shifts admission experience from:
 
-> Boring voice conversations **INTO** Rich, interactive, visual guidance  
+> ✨ Boring voice conversations into Rich, interactive, visual guidance  
 
 Students make decisions through **experience, clarity, and emotional connection** — not just words.
 

@@ -142,6 +142,7 @@ Tailored visuals based on student's interest:
 Felina detects confusion, interest level, and objection patterns.
 
 
+
 </td>
 </tr>
 </table>
@@ -157,6 +158,17 @@ Student Call
 → Personalized Pitch
 → Final Counselling Code
 → Lead Follow-up
+
+---
+
+### 🎙️ Post admission
+24*7 support for Parents to know about there child acadamics and safety.
+> **Parents monitoring there child via felina - call and ask**
+- Is my son present for college 
+- Is my daughter reached hostel
+- Is my son pass in exam etc
+
+Here Felina act as bridge for monitoring, safety and precautions
 
 ---
 

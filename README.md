@@ -218,7 +218,7 @@ Student Call
 
 ---
 
-## 💰 Concept Diversion
+## 💰 Concept Diversification
 
 - College 
 - Property

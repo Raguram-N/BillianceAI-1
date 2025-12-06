@@ -149,7 +149,7 @@ Felina detects confusion, interest level, and objection patterns.
 
 ---
 
-## 🎬 Experience Flow
+### 🎬 Experience Flow
 
 Student Call
 → Initial Questions

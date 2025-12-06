@@ -162,13 +162,15 @@ Student Call
 ---
 
 ### 🎙️ Post admission
-24*7 support for Parents to know about there child acadamics and safety.
-> **Parents monitoring there child via felina - call and ask**
+
+**Parents can monitor there child via felina - call and ask**
 - Is my son present for college 
 - Is my daughter reached hostel
 - Is my son pass in exam etc
 
-Here Felina act as bridge for monitoring, safety and precautions
+24*7 support for Parents to know about there child acadamics and safety.
+
+> ✨ **Here Felina act as bridge for safety and precautions.**
 
 ---
 

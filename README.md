@@ -257,7 +257,7 @@ Felina delivers exactly that.
 **BillianceAI transforms admission calls into visual storytelling moments.**  
 By combining voice intelligence with visual engagement, Felina becomes a powerful admission partner — not just an answering bot.
 
-> _“Admissions are won through experiences — we made those experiences smarter.”_
+> ✨ _“Admissions are won through experiences — we made those experiences smarter.”_
 
 
 
